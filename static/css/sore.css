@@ -1,0 +1,85 @@
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-top: 40px;
+    text-align: center;
+}
+#know{
+    background-color: rgb(94, 77, 77);
+    color: cornsilk;
+    border-radius: 10em;
+    margin-top:auto ;
+    text-align: center;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#seek{
+    padding-top: 20px;
+    background-color: rgb(214, 94, 94);
+    color: rgb(23, 39, 33);
+    border-radius: 0em;
+    margin-top:auto;
+    text-align: center;
+    font-style: italic;
+    font-family: Georgia,'Times New Roman',Times, serif;
+    padding-bottom: 20px;
+}
+
+#horse{
+    background-color: white;
+    margin-left: 80px;
+}
+
+#korse{
+    background-color:white;
+    margin-left: 40px;
+}
+
+#no{
+    margin-top: 95px;
+}
+
+#mo{
+    margin-top: 95px;
+}
+
+#lo{
+    font-style: italic;
+    margin-left: 420px;
+    line-height: 2em;
+    border-radius: 5em;
+    color: cornsilk;
+    background-color: rgb(87, 78, 78);
+    margin-top: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#do{
+    margin-left: -20px;
+    font-size: 30px;
+}
+
+#roll{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.btn-group{
+    text-align: center;
+}
+h5{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color:wheat;
+    color: white;
+    border-radius: 5em;
+}
+
+
+
